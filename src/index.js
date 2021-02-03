@@ -75,5 +75,3 @@ function applyFilter(selected) {
     };
   };
 };
-
-fetchBreeds();
